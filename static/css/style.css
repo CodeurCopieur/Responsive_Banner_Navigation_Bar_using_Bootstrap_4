@@ -34,7 +34,7 @@ header{
 
 .banner {
     position: relative;
-    background: url(/static/img/img.jpg);
+    background: url(static/img/img.jpg);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
